@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+      <title>Posts on My New Hugo Site </title>
+    <link>http://replace-this-with-your-hugo-site.com/post/</link>
+    <language>en-us</language>
+    <author>Alexander Ivanov</author>
+    <updated>2016-03-29 22:19:26 &#43;0900 JST</updated>
+    
+    <item>
+      <title>記事生成テスト</title>
+      <link>http://replace-this-with-your-hugo-site.com/post/auto-generate-test/</link>
+      <pubDate>Tue, 29 Mar 2016 22:19:26 JST</pubDate>
+      <author>Alexander Ivanov</author>
+      <guid>http://replace-this-with-your-hugo-site.com/post/auto-generate-test/</guid>
+      <description>
+
+&lt;h2 id=&#34;what-s:c3c38464690975436c3bf0eebdb556e8&#34;&gt;What&amp;rsquo;s?&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;これからGitHub Pagesでサイトを公開するためのテストです。&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
